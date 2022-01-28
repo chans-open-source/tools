@@ -31,8 +31,8 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/internal/common"
-	"github.com/dubbogo/tools/internal/protocol"
+	"github.com/chans-open-source/tools/internal/common"
+	"github.com/chans-open-source/tools/internal/protocol"
 )
 
 func init() {

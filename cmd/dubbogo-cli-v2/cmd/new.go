@@ -22,7 +22,7 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/cmd/dubbogo-cli-v2/generator/sample"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli-v2/generator/sample"
 )
 
 // newCmd represents the new command

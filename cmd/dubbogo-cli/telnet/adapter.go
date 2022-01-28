@@ -5,9 +5,9 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/cmd/dubbogo-cli/common"
-	"github.com/dubbogo/tools/internal/client"
-	"github.com/dubbogo/tools/internal/json_register"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli/common"
+	"github.com/chans-open-source/tools/internal/client"
+	"github.com/chans-open-source/tools/internal/json_register"
 )
 
 type TelnetAdapter struct {

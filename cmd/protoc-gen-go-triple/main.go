@@ -24,7 +24,7 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/cmd/protoc-gen-go-triple/triple"
+	"github.com/chans-open-source/tools/cmd/protoc-gen-go-triple/triple"
 )
 
 func main() {

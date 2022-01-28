@@ -18,7 +18,7 @@
 package common
 
 import (
-	"github.com/dubbogo/tools/internal/protocol"
+	"github.com/chans-open-source/tools/internal/protocol"
 )
 
 var protocols = make(map[string]func() protocol.Protocol, 8)

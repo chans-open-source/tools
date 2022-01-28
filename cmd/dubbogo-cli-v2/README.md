@@ -6,7 +6,7 @@
 
 1. Install
 ```bash
-go get -u github.com/dubbogo/tools/cmd/dubbogo-cli-v2
+go get -u github.com/chans-open-source/tools/cmd/dubbogo-cli-v2
 ```
 ## The main function
 

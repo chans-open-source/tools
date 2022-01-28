@@ -30,7 +30,7 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/internal/common"
+	"github.com/chans-open-source/tools/internal/common"
 )
 
 // RegisterStructFromFile create the interface defined by @path file, and register it to hessian
