@@ -17,7 +17,7 @@
 
 package main
 
-import "github.com/dubbogo/tools/cmd/dubbogo-cli-v2/cmd"
+import "github.com/chans-open-source/tools/cmd/dubbogo-cli-v2/cmd"
 
 func main() {
 	cmd.Execute()

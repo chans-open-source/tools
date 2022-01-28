@@ -1,4 +1,4 @@
-module github.com/dubbogo/tools
+module github.com/chans-open-source/tools
 
 go 1.13
 
