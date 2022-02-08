@@ -27,7 +27,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/dubbogo/tools/constant"
+	"github.com/chans-open-source/tools/constant"
 	"github.com/pkg/errors"
 )
 

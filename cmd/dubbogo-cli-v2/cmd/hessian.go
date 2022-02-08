@@ -9,8 +9,8 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/cmd/dubbogo-cli-v2/generator/sample"
-	"github.com/dubbogo/tools/cmd/dubbogo-cli-v2/generator/sample/hessian"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli-v2/generator/sample"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli-v2/generator/sample/hessian"
 )
 
 // hessianCmd represents the hessian-register-generator command

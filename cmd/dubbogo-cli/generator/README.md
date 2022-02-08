@@ -7,7 +7,7 @@ Automatic generate hessian.POJO registry statement.
 ## Install
 
 ```shell
-go get -u github.com/dubbogo/tools/cmd/dubbogo-cli
+go get -u github.com/chans-open-source/tools/cmd/dubbogo-cli
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ go get -u github.com/dubbogo/tools/cmd/dubbogo-cli
 ```go
 package main
 
-//go:generate go run "github.com/dubbogo/tools/cmd/dubbogo-cli" -generator -include pkg
+//go:generate go run "github.com/chans-open-source/tools/cmd/dubbogo-cli" -generator -include pkg
 func main() {
 
 }

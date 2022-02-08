@@ -19,9 +19,9 @@ package main
 
 import (
 	"flag"
-	"github.com/dubbogo/tools/cmd/dubbogo-cli/common"
-	"github.com/dubbogo/tools/cmd/dubbogo-cli/generator"
-	"github.com/dubbogo/tools/cmd/dubbogo-cli/telnet"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli/common"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli/generator"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli/telnet"
 	"runtime"
 )
 

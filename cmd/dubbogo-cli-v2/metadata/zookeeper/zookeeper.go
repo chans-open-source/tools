@@ -29,7 +29,7 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/cmd/dubbogo-cli-v2/metadata"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli-v2/metadata"
 )
 
 func init() {

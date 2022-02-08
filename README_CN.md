@@ -6,15 +6,15 @@
 该服务需要支持dubbo协议，方便用户进行自定义传输包体。
 
 ### 2. cli工具获取方法
-`go get -u github.com/dubbogo/tools/cmd/dubbogo-cli`
+`go get -u github.com/chans-open-source/tools/cmd/dubbogo-cli`
 
 ### 3. dubbo 工具获取方法
-`go get -u github.com/dubbogo/tools/cmd/protoc-gen-dubbo`
+`go get -u github.com/chans-open-source/tools/cmd/protoc-gen-dubbo`
 
 ### 4. dubbo3 工具获取方法
-`go get -u github.com/dubbogo/tools/cmd/protoc-gen-dubbo3`
+`go get -u github.com/chans-open-source/tools/cmd/protoc-gen-dubbo3`
 
 ### 5. imports-formatter 工具获取方法
-`go get -u github.com/dubbogo/tools/cmd/imports-formatter`
+`go get -u github.com/chans-open-source/tools/cmd/imports-formatter`
 
 ### 6. 使用方法：见[example](example/README_CN.md)

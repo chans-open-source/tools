@@ -26,7 +26,7 @@ import (
 )
 
 import (
-	"github.com/dubbogo/tools/cmd/dubbogo-cli/common"
+	"github.com/chans-open-source/tools/cmd/dubbogo-cli/common"
 )
 
 type GeneratorAdapter struct {
